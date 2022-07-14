@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Wish Item" max_length="40" name="x_849946_wish_list_wish_item" type="collection">
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="URL" max_length="40" name="url" type="url"/>
         <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="u_reference_2" reference="cmdb_ci_appl_dot_net" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Item" mandatory="true" max_length="125" name="u_string_1" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Item" mandatory="true" max_length="125" name="u_string_1" type="string">
             <choice>
                 <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
                 <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
