@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Wish Item">cf31acb72f689110a3193e0ef699b6f2</application>
+        <filter/>
+        <name>Wish Items</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_849946_wish_list.wish_item_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-14 06:28:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4331ecb72f689110a3193e0ef699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Items</sys_name>
+        <sys_package display_value="Wish List" source="x_849946_wish_list">813f18372f689110a3193e0ef699b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">813f18372f689110a3193e0ef699b688</sys_scope>
+        <sys_update_name>sys_ui_module_4331ecb72f689110a3193e0ef699b602</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-14 06:28:02</sys_updated_on>
+        <table>x_849946_wish_list_wish_item</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">813f18372f689110a3193e0ef699b688</application>
+        <file_path/>
+        <instance_id>ca6eb9b9db6324109a4dcac50596193f</instance_id>
+        <instance_name>dev112032</instance_name>
+        <name>sys_ui_module_4331ecb72f689110a3193e0ef699b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Wish Item">cf31acb72f689110a3193e0ef699b6f2</application><filter/><name>Wish Items</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_849946_wish_list.wish_item_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-14 06:28:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4331ecb72f689110a3193e0ef699b602</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wish Items</sys_name><sys_package display_value="Wish List" source="x_849946_wish_list">813f18372f689110a3193e0ef699b688</sys_package><sys_policy/><sys_scope display_value="Wish List">813f18372f689110a3193e0ef699b688</sys_scope><sys_update_name>sys_ui_module_4331ecb72f689110a3193e0ef699b602</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-14 06:28:02</sys_updated_on><table>x_849946_wish_list_wish_item</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>426967164</payload_hash>
+        <record_name>Wish Items</record_name>
+        <reverted_from/>
+        <source>d53f18372f689110a3193e0ef699b68a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-14 06:28:02</sys_created_on>
+        <sys_id>cb31ecb72f689110a3193e0ef699b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181fb6498990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-14 06:28:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0731ecb773689110a821871ec614fe04</update_guid>
+        <update_guid_history>0731ecb773689110a821871ec614fe04:426967164</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-14 06:31:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>7dfb278a3f6d404fbe6b01cdc001b4d1</sys_id>
+        <sys_metadata>4331ecb72f689110a3193e0ef699b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish Items</sys_name>
+        <sys_package display_value="Wish List" source="x_849946_wish_list">813f18372f689110a3193e0ef699b688</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">813f18372f689110a3193e0ef699b688</sys_scope>
+        <sys_scope_delete display_value="">37c46f8945d24a9691cd458cfb758a44</sys_scope_delete>
+        <sys_update_name>sys_ui_module_4331ecb72f689110a3193e0ef699b602</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_4331ecb72f689110a3193e0ef699b602">cb31ecb72f689110a3193e0ef699b604</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-14 06:31:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
